@@ -1,10 +1,12 @@
 # domain-protect
 [![GitHub License](https://img.shields.io/badge/license-Apache--2-lightgrey.svg)](https://github.com/trustedshops-public/domain-protect/blob/main/LICENSE)
 
-> ℹ️ This project is forked and based on [domain-protect](domain-protect). It has the same license and 
+---
+> ℹ️ This project is forked and based on [domain-protect](https://github.com/domain-protect/domain-protect). It has the same license and 
 > contains some tweaks we made to improve the tool in general or make it work better with our infrastructure.
 >
 > Feel free to use it, fork it or base your own work on it.
+---
 
 * scans Amazon Route53 across an AWS Organization for domain records vulnerable to takeover
 * vulnerable domains in Google Cloud DNS can be detected by [Domain Protect for GCP](https://github.com/ovotech/domain-protect-gcp)
