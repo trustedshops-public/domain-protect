@@ -1,4 +1,6 @@
 # domain-protect
+[![GitHub License](https://img.shields.io/badge/license-Apache--2-lightgrey.svg)](https://github.com/trustedshops-public/domain-protect/blob/main/LICENSE)
+
 * scans Amazon Route53 across an AWS Organization for domain records vulnerable to takeover
 * vulnerable domains in Google Cloud DNS can be detected by [Domain Protect for GCP](https://github.com/ovotech/domain-protect-gcp)
 
